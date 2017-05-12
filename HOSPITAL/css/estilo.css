@@ -1,0 +1,38 @@
+  body {
+  font-size:20px;
+    color: BLACK;
+    background-color: #BCF5A9}
+	h2{
+	color:green;
+	font-size:50px;
+	text-align:left;
+	}
+	 B{
+	color:black
+	}
+	table {
+  border-collapse: separate;
+  border-spacing:  2px;
+}
+.menu{
+	padding:0
+	
+}
+.menu li{
+display:inline;
+}
+.menu li a {
+	font-family:verdana;
+	font-size:25px;
+	text-decoration:none;
+	float:center;
+	padding:15px;
+	background-color:#ff6600;
+	color:#fff;
+}
+.menu li a:hover{
+	background-color:#ff900;
+	margin-top:-5px;
+	padding-bottom:15px;
+	font-weight:bold;
+}

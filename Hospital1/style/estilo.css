@@ -1,0 +1,147 @@
+#cabecera{
+	background:url('../img/banner.jpg');
+	height: 106px;
+	width: 900px;
+	background-color: #ff5500;
+	margin-left: 200px;
+	
+}
+body{
+	margin: 0;
+	padding:0;
+	border-color: #cc0000;
+	background-color:D9F3FF;
+	color: #000000;
+	
+	
+}
+h3{
+	text-align:right ;
+	font-size:40px;
+	color:7BA7E1;
+}
+#align{
+    border: 1px black solid;
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	padding:0px;
+	
+	}
+p, ul, ol, li{
+	font: 10pt Arial,gevena,helvetica;
+	text-align: justify;
+}
+h1{
+	font: bold 14pt Arial,helvetica,gevena;
+}
+h2{
+	font: bold 12pt Arial,helvetica,gevena;
+}
+
+li a:hover{                        
+	background-color:#e6f1fb;
+	color:000;
+}
+.titulo{
+	background-color:#6e99d4;
+	padding:0;
+	border: 1px dotted #e6f1fb;
+}
+.columnaDerecha{
+	position: absolute;
+	left:870px;
+	top:106px;
+	width: 224px;
+	padding-left:10px;
+	z-index:3;
+	color:#000000;
+	padding:3px;
+	background-color:A9C5EB;
+	height:598px;
+
+}
+.columnaIzquierda{
+	position: absolute;
+	left:200px;
+	width: 155px;
+	padding-left:10px;
+	margin-top:0px;
+	color:#fff;
+	padding:3px;
+	background-color:7BA7E1;
+	height:600px;
+	
+}
+#margen{
+	height: 400px;
+	width: 900px;
+	
+	margin-left: 200px;
+}
+#contenido{
+	top:0px;
+	padding:5px;
+	color:#000000;
+	width:500px;
+	height:500px;
+	margin-left:363px;
+	overflow:auto;
+	
+}
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+li{
+	margin:0;
+	float:left;
+	border:1px solid #e6f1fb;
+	
+}
+li a{
+	display:block;
+	background-color:#58ACFA;
+	color:#ffffff;
+	width:120px;
+	padding:3px 0 5px 24px;
+	text-decoration:none;
+	font-weight:bold;
+	text-transform:uppercase;
+
+}
+#contenido h1, #contenido2 h2{
+	color:#cc0000;
+}
+img{
+	opacity:0.4;
+	filter:alpha(opacity=40);
+}
+img:hover{
+	opacity:1.0;
+	filter:alpha(opacity=100);
+	
+}
+#imagen{
+	width:50px;
+	height:50px;
+}
+#imagen1{
+	width:200px;
+	height:250px;
+}
+.pie{
+	position:absolute;
+	width:900px;
+	top:710px;
+	margin-left:200px;
+	text-align:right;
+	
+	font-size:150%;
+	font-style:italic;
+	color:#fff;
+	background-color:2966B8;
+	
+	
+}

@@ -1,0 +1,115 @@
+    
+    body{
+	  font-family:verdana,arial,serif;
+	  font-size:20px
+	  color:#666;
+	  text-align:center;
+	    }
+	.menu{
+		padding:1;
+		}
+	.menu li{
+		 display:inline;
+	    }
+	.menu li a{
+		font-family:verdana;
+        font-size:12px;
+        text-decoration:none;
+		float:center;
+		padding:15px;
+		background-color:#ff6600;	
+	    }
+	.menu li a:hover{
+		 background-color:#ff900;
+		 margin-top:-0px;
+		 padding-bottom:10px;
+		 font-weight:bold;
+	    }
+	.contenedor{
+		   width:820px;
+		   border:1px solid #333;
+		   background-color:#E8E8E8;
+		   margin:45px auto;
+		   text-align:left;   
+	     }
+                                               #encabezado {
+		                                          margin:10px;
+                                                  padding:10px;
+                                                  width:224px;
+                                                  height:50px;
+                                                  border:1px solid #333;
+                                                  background-color:#C00000;
+                                                  float:left;
+                                                  display:inline;		      
+		                                        } 
+     #encabezado h1{
+	    font-size:15px;
+        font-weight:bold;
+        width:224px;
+        border-bottom:1px solid #fff;
+		color:#fff;
+		margin:0;
+		text-transform:uppercase;
+		padding-bottom:10px; 
+	    }
+	.menu{
+		  float:center;
+		  margin:10px 10px auto 170;
+		  border:1px solid #333;
+		  width:630px;
+		  height:35px;
+	    }
+	.menu ul{
+		   list-style-type:none;
+           margin:6;
+           padding:2;   
+	    }
+	.menu li{
+		    margin:0.5;
+            float:left;	  
+	    }
+	  
+	.menu li a{
+		  background-color:C00000
+		  color:#fff;
+		  width:90px;
+		  padding:8px 9 10px 50px;
+		  text-decoration:none;
+		  font-weight:bold;
+		  text-transform:uppercase;
+	    }
+	.menu li a:hover{
+		  background-color:#003592
+	    }
+    .contenido{
+		   width:780px;
+	       clear:both;
+		   padding:10px;
+	    }
+		 h2{
+			 font-size:16px;
+			 color:#cc3300;
+			 width:780px;
+			 text-transform:lowercase;
+			 border-bottom:1px dotted #cc3300;
+		}
+        h3{
+			width:780px;
+			font-size:14px;
+			color:#ff9900;
+			border-bottom:1px dotted #999900;
+		}
+        p{
+			text-align:justify;
+		}
+    .foter{
+			width:780px;
+			text-align:center;
+			padding:10px;
+			font-size:80%;
+			font-style:italic;
+			color:#fff;
+			background-color:#000;
+		}		
+		   
+	  
